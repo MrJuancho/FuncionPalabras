@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MrJua/Documents/C/SegundoParcial/FuncionPalabras/inversion.h
+string.h
+-
+stdio.h
+-
+
+C:/Users/MrJua/Documents/C/SegundoParcial/FuncionPalabras/main.c
+stdio.h
+-
+inversion.h
+C:/Users/MrJua/Documents/C/SegundoParcial/FuncionPalabras/inversion.h
+

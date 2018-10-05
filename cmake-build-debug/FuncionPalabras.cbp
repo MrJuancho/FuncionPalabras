@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/MrJua/Documents/C/SegundoParcial/FuncionPalabras/inversion.h">
+			<Option target="FuncionPalabras"/>
+		</Unit>
 		<Unit filename="C:/Users/MrJua/Documents/C/SegundoParcial/FuncionPalabras/main.c">
 			<Option target="FuncionPalabras"/>
 		</Unit>

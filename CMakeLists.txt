@@ -3,4 +3,4 @@ project(FuncionPalabras C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(FuncionPalabras main.c)
+add_executable(FuncionPalabras main.c inversion.h)
